@@ -8,7 +8,11 @@ C 01.05.2020 по 02.05.2020 было проведено инсталяцион�
 
 В результате тестирования выявлены следующие дефекты:
 * [Руководство по установке IntelliJ IDEA. Не рабочая ссылка, шаг 19](https://github.com/NazarovAleksey/Java1.2/issues/1)
-* [KeyValidator. Результат OK при вводе не валидного ключа](https://github.com/NazarovAleksey/Java1.1/issues/2)
+* [Credit Card Number Validator. Проверка валидного 13 значного номера карты.](https://github.com/NazarovAleksey/Java1.2/issues/2)
+* [Credit Card Number Validator. Проверка валидного 15 значного номера карты.](https://github.com/NazarovAleksey/Java1.2/issues/3)
+* [Credit Card Number Validator. Проверка валидного 17 значного номера карты.](https://github.com/NazarovAleksey/Java1.2/issues/4)
+* [Credit Card Number Validator. Проверка валидного 18 значного номера карты.](https://github.com/NazarovAleksey/Java1.2/issues/5)
+* [Credit Card Number Validator. Проверка валидного 19 значного номера карты.](https://github.com/NazarovAleksey/Java1.2/issues/6)
 
 ## Описание процесса тестирования
 
